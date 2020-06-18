@@ -5,10 +5,10 @@ This repository is responsible for hosting pipelines for this organization. View
 The pipeline manager deployed this release
 
 - Moved pipeline `git-package-release-update-pl` to `stable` as it passed QA
-- Added pipeline `deploy-storefront-ms-to-openshift` to `incubator` needs further testing.
+- Added pipeline `deploy-storefront-ms-to-openshift` to `experimental` needs further testing.
 
 # Release v1.0
 The pipeline manager deployed this release:
 
-- Moved pipeline `git-package-release-update-pl` to `incubator` needs further testing.
-- Added pipeline `deploy-storefront-ms-to-openshift` to `incubator` needs further testing.
+- Moved pipeline `git-package-release-update-pl` to `experimental` needs further testing.
+- Added pipeline `deploy-storefront-ms-to-openshift` to `experimental` needs further testing.
